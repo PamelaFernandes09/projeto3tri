@@ -1,7 +1,7 @@
 craiCartao(
     'Programação',
-    'O que é JavaScript?',
-    'O JavaScript é uma linguaguem de programação'
+    'O que é Python?',
+    'O Python é uma linguaguem de programação'
 )
 
 craiCartao(
@@ -13,5 +13,5 @@ craiCartao(
 craiCartao(
     'Programação',
     'O que é uma função',
-    resposta
+    'Uma função é um bloco de codígo que executa alguma tarefa'
 )
